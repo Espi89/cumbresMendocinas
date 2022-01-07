@@ -1,0 +1,14 @@
+/*VARIABLES*/
+@import './utils/variables';
+/*GLOBALS*/
+@import './utils/animation';
+@import './utils/normalize';
+@import './utils/globals';
+/*PARTIALS*/
+@import './partials/header';
+@import './partials/footer';
+@import './partials/button';
+/*VIEWS*/
+@import './views/about';
+@import './views/home';
+@import './views/contact';
